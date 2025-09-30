@@ -6,7 +6,7 @@ AI-driven analysis of environmental data (Water &amp; Air Quality) to provide ac
 | Resource | Link |
 | :--- | :--- |
 | **Live Platform Demo (Website)** | [https://naturopia.odoo.com/](https://naturopia.odoo.com/) |
-| **Video Demonstration (12 min)**
+| **Video Demonstration (12 min)**|https://drive.google.com/file/d/1S-CgOe7ouqXL9k6FDyITBiry4bbFV6pw/view?usp=drive_link| /https://drive.google.com/file/d/1S-CgOe7ouqXL9k6FDyITBiry4bbFV6pw/view?usp=sharing/ 
 
 ---
 

@@ -23,5 +23,5 @@ This project was a collaborative effort by:
 * Afaf
 * Madonna
 * Noura
-* Youssef (Your work: QA, Testing, Documentation)
+* Youssef 
 * Mohamed
